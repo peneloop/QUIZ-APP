@@ -8,6 +8,4 @@ Aproveitei para recriar um visual único para o quiz, revendo classes TailwindCS
 
 _🎥 Feito com base no vídeo - ReactJS Beginner Course 2025 | Become a React Pro in 1.5 Hours_
 
-[![assista ao video]<iframe width="575" height="325" src="https://www.youtube.com/embed/3OqiKTyH4r0" title="ReactJS Beginner Course 2025 | Become a React Pro in 1.5 Hours" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
-
-<!-- (https://img.youtube.com/vi/1mm_C-t_Vyg/maxresdefault.jpg)](https://youtu.be/1mm_C-t_Vyg?si=rH9KSu63Z_O0nkQV) -->
+[![assista ao video](https://img.youtube.com/vi/3OqiKTyH4r0/maxresdefault.jpg)](https://youtu.be/3OqiKTyH4r0?si=YCobzG2q12ltsvNP)
